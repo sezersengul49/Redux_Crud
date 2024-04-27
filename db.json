@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": "1c15526c-ca2b-4d83-a092-7cea43e8186b",
+      "text": "react hook",
+      "is_done": false,
+      "created_at": "05.04.2024"
+    }
+  ]
+}
